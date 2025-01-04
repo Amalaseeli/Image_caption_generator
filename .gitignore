@@ -1,0 +1,10 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore specific model and feature files
+Dataset/best_model.h5
+Dataset/features.pkl
+
+# Optional: Ignore other temporary or cache files
+*.log
+*.tmp
